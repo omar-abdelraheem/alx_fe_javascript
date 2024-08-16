@@ -1,0 +1,2 @@
+const showRandomQuote = () => {};
+const createAddQuoteForm = () => {};
