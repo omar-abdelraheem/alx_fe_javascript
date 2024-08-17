@@ -84,7 +84,7 @@ function createAddQuoteForm() {
 }
 
 // Function to add a new quote to the array and update the DOM
-function addQuote() {
+function newQuote() {
   const quoteText = document.getElementById("quoteText").value;
   const quoteCategory = document.getElementById("quoteCategory").value;
 
